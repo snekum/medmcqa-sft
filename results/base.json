@@ -1,0 +1,3008 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "adapter": null,
+  "n": 500,
+  "accuracy": 0.324,
+  "predictions": [
+    {
+      "id": "713b94cf-fc1e-4c32-b28e-f187cf86562d",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "228da52b-1c04-49cc-bfd8-05701a0fdb11",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "c0bb09db-0721-44e8-85a9-9adefcf98f25",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "4d992bbe-1bd9-417f-b08b-4a1c22095439",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "725d9973-1082-4c9b-b4fb-9c63a4615e63",
+      "subject": "Skin",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "ecc4eaa4-4fcd-4c62-9c73-2a047b98cdc5",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "cc9a8448-c6e4-4a67-b2b5-153205840089",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "1b85e9fd-770f-4114-8336-515675db46c9",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "158075d9-ce50-4a2c-b201-74b3fea5a513",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "edbdb125-7a27-4740-9e03-b379ae34773d",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "f99d10c3-4fe6-41bd-a6f7-e5aa85014103",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "2617e9f9-7ba9-4f7c-b182-f7dbff771148",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "48d70d58-19bb-4648-b72b-d49e9cbb0147",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "13843218-9b0f-452b-868b-b8d3b317730a",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "6434c78e-ee6b-4e07-afac-ab14fe5f1c4e",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "3569a377-99ad-4363-bb2c-ad95cb9f3a03",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "9a3940ff-8c7a-492c-86d4-259c47cef675",
+      "subject": "Surgery",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "79e76d7d-4187-4f59-8e23-65d9e8f51aba",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "2b610c47-4d3f-4782-8145-c2e50c7245a1",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "35e5b5ae-82da-4f68-a011-91818a64c684",
+      "subject": "Pathology",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "7cfc2dcb-313a-4722-98b1-ac63c7b49e75",
+      "subject": "Anatomy",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "e96f4302-770c-4b98-a01a-cae2bd1dfea0",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "ad3f328f-72a0-4539-be89-1c9b6cce07f6",
+      "subject": "Medicine",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "81f36a50-554d-4c45-a8e2-8df9dce0ca2f",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "58ffad4a-5613-4d26-88b2-a4bb2ce2b9e6",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "6bb818fb-dbe5-4580-8f45-d6e875bf0516",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "bc46c956-a37d-4804-91ac-fa804db85897",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "595b0c16-d612-4873-b98a-fc848c527b77",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "f4d51744-50f2-42e9-8ec7-5b0e7e55d31e",
+      "subject": "Medicine",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "643c04b4-2478-4bb6-972d-196073f07322",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "4e9993a8-951b-44b2-b451-0d1bbb3f3060",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "fade5c9e-4f2d-4cfd-90e3-99a69f09fbf9",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "12342b20-b7a0-4f14-91ed-c764fc51ed7b",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "77bc7a7f-2138-438d-a372-089c4f806090",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "48d1692a-1a88-4247-8a54-7947e03d6d62",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "814f7a8f-438c-43ba-883c-4d020de61083",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "a59b9fe8-ab81-4f9c-9b65-10df248b3f49",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "2a994738-a611-44f3-abcc-729abd519c1b",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "4a6eaca4-d9e1-4cb1-b30a-7cbbbd07f683",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "bbb707fd-232e-4ce3-bd6a-bb261bd05701",
+      "subject": "Pediatrics",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "9a3ac2a9-6d0f-4448-865c-e5bac449c1ec",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "515aa26e-2c4f-41f8-9039-cc2f96a04eaa",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "0215b959-5db1-413b-b23e-466268b727ce",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "1b230bb6-80df-4b4f-89a4-0610161bbb51",
+      "subject": "Pathology",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "c348e60a-061c-4b3d-9192-f54aebed9f8c",
+      "subject": "Forensic Medicine",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "a0f45cea-4081-4953-943a-04c0b89c02b7",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "e321f1c5-710f-47d9-9632-b2a45152ea9d",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "6d9828ad-86fa-45fa-b669-4c22f06dd9b0",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "d190d5c8-74f3-46fa-afd1-4ff1f830f1c2",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "8ecd446d-adb7-4e91-aca4-b1f3d3a63447",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "f4640853-99a7-40e8-837c-70e300ae8773",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "84b873f8-fb56-4767-8af8-8526e71bed62",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "eb9e9551-a8a7-47a4-8531-2633fbb69a52",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "6fe48790-f8f0-4c37-8dae-a76ddbac8a7a",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "d4f6fc8c-f415-4619-9831-8da71140bbac",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "27c9ead8-7baf-4c63-bf48-a03e57812c44",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "156c414c-5dab-43e2-bf06-11e0fea7b978",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "30b2fee8-1ce3-4f84-ad72-f20e7b53a24b",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "5266b717-91e2-4c9f-94aa-2be119379a81",
+      "subject": "Social & Preventive Medicine",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "8dbe206d-75d1-43ba-93fc-5b5c30f72a0a",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "a04c4de3-ed44-43ac-8771-4ea6743009f0",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "d2198d20-fa7b-4abd-a3f6-d849ee0973fb",
+      "subject": "Anaesthesia",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "b2ea1b5d-abd4-426d-823c-facdd2547357",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "3146c248-2dd4-4888-99c9-bafda2fa1ec7",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "C"
+    },
+    {
+      "id": "2e82399f-9cef-4ba7-ae0e-9424c0efc321",
+      "subject": "Pathology",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "dabfee93-2e1b-4e6c-bff6-03c025bd986f",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "c9b3f6a9-ec49-4339-a06d-f7cf29e46c2d",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "A"
+    },
+    {
+      "id": "31cb149e-7c0f-489f-b2c6-10985226e2ff",
+      "subject": "Orthopaedics",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "127f11db-dde3-4ebf-9748-9c2e56708e84",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "83cbb1ff-e31f-4eec-b198-b39874f05c2a",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "0895e4fb-7bf7-4cd2-9cbe-d3baf43d7b71",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "8a65ba68-f96b-4a62-956f-331b8cb60807",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "49aad5fe-d52b-4520-9fcd-e199f5f0f4c7",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "bf77a9c9-3c08-43fc-8159-8f8509238024",
+      "subject": "Pathology",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "3084edf2-d176-43aa-87f4-412ea4098b47",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "585bc690-6b58-447f-941c-95f18ee8152d",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "c254e7c1-e9d0-4cfc-8a9f-2a69b48961d4",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "1f8a97a5-64cf-4635-a50a-e84ac5a0d7f1",
+      "subject": "Medicine",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "e6478418-d6bb-47d3-b31c-a19b3a149a6c",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "2da045d5-171a-4102-a9f5-2de62997fa2c",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "16533187-64d0-47f9-be71-dba4d56615fe",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "71803632-1b88-4332-88f5-be3ac2515b85",
+      "subject": "Ophthalmology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "4d0ad58c-0f6a-4711-ad6a-9481186ce5f4",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "415631ce-90ea-4872-a5cf-3fe2c83e3b4d",
+      "subject": "Microbiology",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "d5a0c042-97e7-47a6-b4aa-e3900f02c511",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "92bc808f-994e-4669-80e5-77305a9f9178",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "8692345e-a600-4355-a964-bb514b16d977",
+      "subject": "Microbiology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "b21a38b8-c966-425a-a140-9ff775745931",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "f00b5f5a-9a4e-4003-ad33-12ede354b4d9",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "3fd17b81-42d6-41dc-915f-d4b612074dc5",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "752fa9af-ae3d-444f-aa2a-4d6c2b0b20d2",
+      "subject": "Anatomy",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "1c25695e-3dfc-4f00-815a-7c6dfa0478fc",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "5bc29ae1-a1a8-4c3b-a11e-e469be9f0640",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "4bf78fed-6576-4ea9-9ba9-1028d2eb6220",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "c6513329-2d6b-4919-9b30-3b5ae5977f52",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "55eec4ea-ed68-45a3-87b9-74592b2ded6e",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "46f87e87-5b3e-465d-ae94-bd65b5f333c2",
+      "subject": "Physiology",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "9bd6256f-3625-4877-8fe7-63c2688a39ce",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "08650ad1-3a19-41f4-a1d6-8e44e6413aca",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "d5a3e0d8-3ce2-455c-96c6-b5b9fec203a0",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "5cfbf418-71b5-46c6-bc7a-d15cfee99283",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "722775df-4795-47f4-86c9-435b5d489e8f",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "aca2add1-e577-45a3-b62e-7143ad56ac2d",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "2b050ce8-53bf-4a3b-a4bd-fe1991b726c9",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "ed24d502-040d-47a0-b3ed-d355cd0481a8",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "1470a21a-b226-4cd1-904d-85cd841d5afa",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "c392ae6f-bcce-4129-9357-c99cf10dbafa",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "a8efab51-c555-4622-b1aa-b726cb28b8b3",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "9663a6e9-55d1-4a7e-8af9-556a6478688d",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "3341d406-7f8f-4f77-8418-bd773284d491",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "8596a34a-71fb-4c8a-847d-c1d5c274e6ce",
+      "subject": "Anatomy",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "3fab0d64-1ad4-466a-8a87-c37fee1d1229",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "4eef4a6b-af8e-4472-9caa-95c1f1a415c8",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "288022ee-c8bd-42e6-8e0a-81838367119a",
+      "subject": "Medicine",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "108d98b3-bf9a-4d0b-92f0-3736950e4c20",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "3ff2f4ae-4e85-475c-9456-223c81930e98",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "276c90f1-588a-4be0-a288-352e63ebf824",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "efa0e92a-b11b-4c1c-a97d-8b4409430caa",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "98ada6d9-f8ac-4454-9aaf-a4105ec5cc0c",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "6370f514-0f67-4a88-835d-9d94a6ffa24d",
+      "subject": "Surgery",
+      "pred": "D",
+      "gold": "A"
+    },
+    {
+      "id": "7627eb54-4499-45d0-ba1f-1c8dbc6f2342",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "ccec60b1-80b6-4130-b1ab-8631cac2fa14",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "03efd4d9-076b-48c8-b17e-f13e3c87fd6e",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "ae962062-af3e-4fcb-a952-a71b7a3c726d",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "7ac6c505-a563-4d72-a4c7-8c9681df35b0",
+      "subject": "Surgery",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "a78209a5-9800-45d5-9cab-4838388d53e7",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "c5056549-6113-4a46-ba07-180748774819",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "51203235-22e6-43fb-a51f-a2fcceb5f042",
+      "subject": "Ophthalmology",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "315212cd-d605-4f61-8d4e-535ef7847059",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "756277e4-4420-466e-adee-3aee112a7b69",
+      "subject": "Ophthalmology",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "4bed11d9-70fd-4592-941c-6ba056318752",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "22f5d1c3-8073-452a-937e-63414dc5065e",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "f477ffc3-2257-415b-b80b-82203647a233",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "a31fa037-1f22-44a4-8d07-6457c439b685",
+      "subject": "Microbiology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "3645e915-e8a7-44fe-8cad-734ce6b71063",
+      "subject": "Pathology",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "e62b12e5-0a92-44d3-95b0-33bbf59bd891",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "d6f5cf46-9b31-4489-8989-beff9c456484",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "89e75fc5-d650-40aa-81db-cee3759ce219",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "c2f14586-a3c9-42c3-8b6a-d287acf43802",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "3bd6c1d7-7d78-4279-8347-7fd70f37a262",
+      "subject": "Physiology",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "08f757d6-1296-48c4-8307-d4e61d2979b9",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "73cbdaba-1321-4765-a9f4-ec0b0dbc9994",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "10b04be8-a89b-4858-b1b6-8af09fe6a716",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "ec9282d1-e1af-4be7-87b7-439159e3c16c",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "b1cc4ab0-a82c-437a-88c2-00953f3618ff",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "01c2e93f-70e6-417c-b779-c037ee975bff",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "db180b6d-8b4e-487e-a47d-7c554c8dad2e",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "ea373189-624d-4fb7-bb2b-2168c1e77d61",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "dac44c4d-224b-489e-a7f7-72879f6c4c70",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "8a91d036-5cc2-49a1-8ce0-d92b771ed10d",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "C"
+    },
+    {
+      "id": "5ce754b8-b358-4270-9bd1-8828700a19b1",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "5aee6779-b362-43fd-acd1-10790f873db9",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "8dd0ea2a-17d4-497d-93a1-a6704930a0db",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "cc65668e-675f-4422-a28f-96df292dc630",
+      "subject": "Skin",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "d945a9d8-2cd7-4c27-9abd-0fa469d2c9f1",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "37e6c503-59f9-4ba2-80b3-a7acb789c118",
+      "subject": "Anaesthesia",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "541cbd4f-c0d8-43b8-bebe-9fabaa9023cd",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "6f78cdec-b48a-497c-bf8d-6b5b9b083ecf",
+      "subject": "Skin",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "da85e1d0-fb34-41b9-85a8-b21192940c58",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "590248a6-74f4-45bf-a54a-d9b9b09b78b8",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "e6ffb56f-8545-4c0a-ba5f-2f5294d6a544",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "eed5fad1-cadf-4372-b81e-1cbd51b198ac",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "d98f10a4-8b10-44bd-8160-ec5719d2f4c1",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "25a045ae-9cab-40c2-aaae-d890d4015eae",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "9e56e9b3-c4aa-44a9-ac78-e7aba802f443",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "dbd611a1-4294-43fb-b290-49a0746eb7f2",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "C"
+    },
+    {
+      "id": "3d3d18de-8e78-4d58-90f4-2c9257c76a5e",
+      "subject": "Orthopaedics",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "89012d04-ecf7-4f9e-8885-2d75767323a0",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "d67604c2-e273-417d-9c60-e10508104102",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "d5501e81-deb1-4fc4-bbf8-d8344d44f673",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "0447b9a2-22ec-449c-8a23-a52c28ac6b34",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "c5641329-23a5-4f95-a7c9-3be2882bcbcf",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "efa89b57-bec6-4dd6-a969-0a6f61ce5c8d",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "cb67fe1b-fdf5-4478-b16b-7c0fdf4be59b",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "5d03f6ea-52a4-4358-94b1-ab24840e0f77",
+      "subject": "Forensic Medicine",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "1163160d-9432-4143-98af-ef59704fc876",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "2aacf8d1-b36e-49be-8333-af91aa2a49c9",
+      "subject": "Ophthalmology",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "65c68635-397b-4ed9-b4a3-8e798c91613e",
+      "subject": "Medicine",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "0113e4a7-b3a0-43f7-a30f-4e144fbac764",
+      "subject": "Pathology",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "0c51b741-85ed-462a-ad9f-fbb731df845d",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "6652ddbc-f88b-49aa-b52e-30e4dcd494d1",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "1a9cdc6b-3c9c-44a2-95d1-68461bf113fc",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "fda4a6bd-3eb5-4641-88da-513b72c1d320",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "9bad2095-2dd9-4485-946a-4ef51d16e8a4",
+      "subject": "ENT",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "d4979c9e-6419-4f42-b71d-bec7c5077426",
+      "subject": "Pathology",
+      "pred": "D",
+      "gold": "A"
+    },
+    {
+      "id": "17cb7e3f-0ca7-4937-a407-76bf9f401143",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "da2078b0-6ce5-4ba3-82f2-7b145665be2b",
+      "subject": "ENT",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "89dc8003-fb16-432a-9da3-4d8464ca9ab8",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "C"
+    },
+    {
+      "id": "2645de29-a0a0-42da-af00-50637b38ea84",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "7a0cf861-7c06-4f24-8da9-de8dbd7e4368",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "19fab1fd-eb4b-42ca-9cc4-82a1afe6252a",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "51250c61-30fe-47d0-b5cf-e9ce5abcac6e",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "dcefed9b-19be-4331-ac01-6876e7d194f4",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "b9bf56a4-ed0f-40f4-ae43-bcc067369c4b",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "46b0b982-5809-4e21-a3d7-9f7872fdd13b",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "26a82f11-4261-4975-bee9-ae8d4e74cdb7",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "5900458a-b839-47eb-a745-b93e35ba2d40",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "39c933d9-6014-4f3d-9b81-cb67eb2ec6b9",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "f7da806e-72c7-4e47-9a89-46abf9f8fae6",
+      "subject": "Medicine",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "3b2ef8ce-ddbe-4e5f-845f-f0085dc98bf7",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "dd01b2ed-fb23-4b63-b9f0-5f6d2142d00d",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "63e48df0-7312-424d-a84e-799ae4d573ab",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "b5d6f664-7734-48e9-8a58-0966937fe271",
+      "subject": "Anatomy",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "294f261f-83db-483c-ab08-7ada6462f72b",
+      "subject": "Anatomy",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "c4169d37-8378-47f0-a9e6-6ae62b6046fd",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "764c0c80-b716-45a1-9fe7-b13588090401",
+      "subject": "Social & Preventive Medicine",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "6bfb7ced-ef9e-4df7-ae35-ce5699bbc7a5",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "8bc0a153-89f2-4bef-869e-ae471503d279",
+      "subject": "Ophthalmology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "24c02db5-49d5-434a-80ab-fc70512353b5",
+      "subject": "Physiology",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "7ef1e046-a4a8-45dd-9a3b-6ede4a1b85ce",
+      "subject": "Medicine",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "f9e59986-dc69-42ca-97c9-593496bb98a5",
+      "subject": "Anatomy",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "6a1a402b-247e-4dd9-80b2-ad2f347b2d02",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "dc59a224-08b1-4438-8176-03e96dcf8392",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "7cea5a22-d408-4fce-b026-381149dfd0b3",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "d49f81a6-24c9-40e0-952f-8ff63eb6947d",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "c97369ec-b7b9-405c-ba9c-35cfdae8ce24",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "53c524d8-8a1c-4656-aa1f-d9b1368ebd6f",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "e12d833f-2b7c-44e6-b395-70341c49eb5a",
+      "subject": "Social & Preventive Medicine",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "7d01f5ce-d737-4838-bf15-68a4dea15b1a",
+      "subject": "Microbiology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "d84a0b3e-1f4c-4c23-a0a1-811a66c6bdbd",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "5fa2e23f-c19c-4828-b240-59b7a0a84834",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "22f37095-b0aa-4603-a72d-8594c37b6f7e",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "8853753a-6c65-4f57-bf02-82365bb4059c",
+      "subject": "Surgery",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "3f67eb93-73d7-4caa-b000-2b85de3c8a65",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "50d62af7-c4dc-4ea7-93fa-c235c4bb6b2f",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "2719953f-15c7-4003-83ed-0baf2654d35a",
+      "subject": "Pediatrics",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "68d6b9df-1044-405b-9fe4-4f0b37dfd0f0",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "23cdcc3c-aabd-403a-b2f7-59ecfab6ed23",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "c8f62b0d-908c-494c-9ccf-90297f3647a6",
+      "subject": "Pharmacology",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "eaa184bf-53c5-4755-bee8-a9153e587ff0",
+      "subject": "Ophthalmology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "251499f8-5ddb-4d75-9acb-71fa169e64dc",
+      "subject": "Surgery",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "ea17383a-7256-484c-8935-802442fbb03e",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "470f224d-77cb-41dc-81e2-52f4cdce2acd",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "015438df-2f7d-4298-9da3-f15b1fcef278",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "035a6e66-f990-4d45-abd9-9855059b027a",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "a7249818-4e2e-468e-9dbc-05cbc8bc8fc2",
+      "subject": "Biochemistry",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "5fd61c9e-450e-415b-a055-24f62de4cdd6",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "790947ee-b119-4f1f-ac07-8f0c5a701010",
+      "subject": "Pediatrics",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "4f8a7da4-2f7c-4827-ab01-c5570cfbac40",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "4422e6ec-c7c4-432f-808c-246ce51de206",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "a9dcb424-8323-4d52-9cf6-22edf370b728",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "5ce7355d-9557-4269-9c69-0aff12299627",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "86222cd5-174b-4f22-b54c-280039bb8322",
+      "subject": "Medicine",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "f6ea9a5e-e308-4cda-908c-4b34fcc35206",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "70f851da-1d36-4d09-a9f0-f7afc63c07ff",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "6167ceda-f896-4511-a570-ae19f725e1e7",
+      "subject": "Biochemistry",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "5db315ce-ffe3-4f63-9071-d9168619ce60",
+      "subject": "Medicine",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "7f6a2842-7816-4a42-821c-d6e066a36fb4",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "23b88f5e-b7e3-45c0-9728-787444075c25",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "37d6e02a-0f4d-44a5-bbe0-f8040e1522fa",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "436d7d2f-93e5-4a85-84b5-f4c701863126",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "1198f3e5-a21e-4487-ac57-6ab1dee93d67",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "b7a77489-2de7-4bc8-910c-0792906b8375",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "e0471ba9-d328-4924-b5e1-6d036b3005b6",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "4f2920dd-315c-4f5a-9208-80a4c443ceab",
+      "subject": "Medicine",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "1d41cfa5-26ea-42db-b8cb-3a7b7959d954",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "fbeaf59e-0828-4af8-8b1b-024f50e88857",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "57f4102b-4c7f-41b0-8ee5-a221747da8ab",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "80d3c4e2-26a3-46c1-9e01-9f898b93708b",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "425b33ea-99cf-4c20-830d-bcab7bed527c",
+      "subject": "Medicine",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "8ad9acc0-4de3-4d82-86a4-7d8ccfdb8c68",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "6bd89605-daf0-43d9-bcfc-7f44847433a6",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "7bc4b5f5-b82c-47d0-956f-3b4110d7f371",
+      "subject": "Surgery",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "ef35d544-203c-4f85-bfe7-a04f8bae3e96",
+      "subject": "Radiology",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "f62dcc6b-7c3b-4308-b33c-c48ce3947b79",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "fcb698be-6cbb-47ac-81e0-f40be2a42583",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "6c237081-5070-4262-8a45-5b308499818b",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "5603de35-adb1-4612-a9ea-1e719e1aa879",
+      "subject": "Medicine",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "16f26f56-f5ab-4542-910b-eca95b907278",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "edd8ad29-2dd6-4e4b-8494-0f6af658444d",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "d1ba41d0-9b08-4fd4-a4fa-22315c0e8ceb",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "0b1e3ca7-b56b-4c9c-a660-2ff1a12393b1",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "7f0e4478-76ad-4994-8749-b466e371c9fc",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "09e1b073-410a-4395-a142-1c53cec20279",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "bdf95c69-99f7-4884-b014-53ec47ef3130",
+      "subject": "Biochemistry",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "4710c6bb-67b6-47ab-85e1-7cac22bd35cf",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "395a115c-ac63-49db-8cca-eaef6396794a",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "8e59864a-686e-4d9f-9adf-803f4edca225",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "739272d2-530b-4885-8178-0d785683b86e",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "2e4f5929-8c85-4561-9656-44bc930b581b",
+      "subject": "Biochemistry",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "d5b9b2b3-09f3-41b8-89a1-232e7c61b806",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "3893484e-f4d8-4d90-b435-93af8a7bc469",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "9603526f-8c7d-4618-963d-be8a05c28a94",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "49742408-b907-4963-a7b7-3e23f073e1bb",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "6e2bcc94-c91e-4f9d-af0c-2e049c7ac6c5",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "d9f1b19f-12f5-467d-a831-ba3d9020d230",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "f3b10e99-fb84-459f-8947-e90618a9e6c8",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "87751b39-a2e2-473d-86e7-e72d26b24ea4",
+      "subject": "Pathology",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "2be4ec28-ff65-4ba0-9a8f-346a819c99f1",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "a30f9a2b-52f0-4880-980d-d56de2a88910",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "b1cb5022-7ebd-41b5-808c-c969958bfb62",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "3aed5296-d2c0-4347-8804-d85234302675",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "b0b23ecd-6076-476c-935b-a6384c8474ff",
+      "subject": "Pharmacology",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "d8d4dc47-e669-4f12-a089-b1a362fc0c51",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "f990288f-3d8a-48a3-a4bf-ea3e1a20bf96",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "624fae5e-1711-4d3f-8efc-763e77a09335",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "3419bb2a-2a24-4ddc-b217-ee00b981afeb",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "d9c876f6-673e-4ef8-8b2b-ec8a5d6c9d63",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "b7899c5a-8bd2-4a87-8082-0ad7980f3886",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "21af7233-ae6a-423c-ae71-9148212a37c3",
+      "subject": "Physiology",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "83b776f2-ae9a-42ec-8262-931b29af2d9f",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "1c84e0de-2784-45de-a25d-79ed40cf0fe2",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "c0991329-cb18-490a-b032-579c7331ffad",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "0c1957b7-636d-4450-9a54-46f34f086cf5",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "63c52b21-f814-4a6d-ac11-a719fffebfd3",
+      "subject": "Radiology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "5695dba4-4624-4960-954f-6e7133491216",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "59fcd56f-73e9-49e5-8cd0-8097402935ec",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "93308f4a-1927-4596-981a-58f373a9707e",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "fd5e72b2-ff85-4ad8-8457-50ae63f377db",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "36dd849c-4867-4ca6-8f5e-c8419e4634bb",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "afd502ff-b700-4ecf-acec-f849331dd1ed",
+      "subject": "ENT",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "2b776323-df34-4cab-ad74-e9d4e8c4e128",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "5ec6e275-1772-4d73-8776-77b38eb82ef2",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "27e5fe55-e6b8-49eb-b141-78c1e4fd1e14",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "533dcf5e-9bf9-4c25-a1bd-64f13f6e916b",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "7e0a6533-733d-48a0-88dd-3359674187b8",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "A"
+    },
+    {
+      "id": "3592f545-8b31-4f41-9ccc-89eb67bc818a",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "a8e272d3-7afc-4864-a7ca-84e2d6fa0569",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "063acadd-aa14-4684-87cb-ee4ee644da8c",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "69c15b27-e061-413c-a011-854ea197f141",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "af75fc76-911b-48da-9ca0-75a8c912c18b",
+      "subject": "Psychiatry",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "5444cae2-aeab-4a04-8501-e91fe8ce794a",
+      "subject": "Anaesthesia",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "18d1c316-555c-4528-a9c4-e8ce1a613179",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "7d07e718-099e-466f-912a-d1f7240f482b",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "55cf89e3-a464-43f3-8790-669a47a1be85",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "c52f3d8b-9255-4eb2-a6b8-dffc3d149662",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "344d849d-fe32-41d8-853f-b02b41028d71",
+      "subject": "Skin",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "71aace23-dcbd-489a-b9b7-b3f52adfc9f1",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "0d8286b5-43b3-4ea2-9af4-d39822a11972",
+      "subject": "Microbiology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "3f6665ca-6b69-4345-88c2-72c2befd4d18",
+      "subject": "Ophthalmology",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "e28c04ac-2003-4fa1-8b5c-7f36776cfa8a",
+      "subject": "Surgery",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "1bcbe056-96b4-41aa-a7aa-044d7d2ac555",
+      "subject": "Surgery",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "8604f600-1e0e-432d-8113-0bea0db44951",
+      "subject": "Physiology",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "26f30f24-dcd8-453d-8553-9ee82ad496e1",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "46b381c8-e9ab-469f-84ed-ee92db694962",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "C"
+    },
+    {
+      "id": "c8d2885b-1529-4575-abcd-b8afdfb64512",
+      "subject": "Skin",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "7920ff2c-c8bb-482a-9080-b102f83eca18",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "15b58a11-7341-4318-bf98-b29c4e4ba7c0",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "744e4dce-b8f1-447f-a964-bea1bbe98edf",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "88e59728-2686-456d-b949-71aa89d0a69a",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "60a2311b-bfcb-43c9-9409-30d6f3a0e6b9",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "61e943fb-b106-4e28-9639-4d6a46cd53ee",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "9064db4c-83a8-4110-9a87-b4c4669bb225",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "10baae45-ecc0-4efa-bbb9-cd5b33b79770",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "789aa0f7-2666-4950-be7e-42b03b1b1a44",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "e4281c68-9e8b-4802-9c1d-edf0de6c7195",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "8a5481db-d909-4ff3-9f52-52f004f3c6fb",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "97194c13-bb56-4e06-ac35-79f69cb41bb3",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "8fe12f62-9e59-408b-899d-72def6e9e16e",
+      "subject": "Microbiology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "bed477a6-5416-4f65-9859-e454fa02adbc",
+      "subject": "Social & Preventive Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "5c97e587-2436-40b2-9f70-6f08a903d543",
+      "subject": "Radiology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "7751b7ed-6aa4-4b9a-a03c-bb991a2936db",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "8466f417-6a8e-4f07-87f8-556fb5fac62a",
+      "subject": "Anaesthesia",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "72c1c5e0-b64f-4eef-bf22-ecfb60c5c19c",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "b02a0880-4fc7-46d1-83a9-d86a8f1f077c",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "f3fac8a7-d3e8-4d02-b4eb-4ac18da8e7c0",
+      "subject": "Orthopaedics",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "6ec7c97f-5287-46e6-82ec-75ded2b07a1c",
+      "subject": "Anaesthesia",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "988010c6-d24a-4c75-9688-e8d84da035a0",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "fca6dd3f-4e3a-49fe-a893-e4c69ee343b3",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "8b538660-2509-4f93-a358-104099bb3cb8",
+      "subject": "ENT",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "e8f48ed7-e417-422a-acde-9f7cb2c25416",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "14aa507c-4372-4240-857f-3b88999ae85a",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "abed431b-5d40-4df7-9f7b-4088185b5728",
+      "subject": "Ophthalmology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "c273445f-2dc5-452f-94b4-ce6e37b4496d",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "e18f0c87-2d93-4fb1-9b7f-41ddc4ea0cae",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "d339b10a-b196-4275-be32-cf575bb7f506",
+      "subject": "Pathology",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "36fbf017-4fe4-4eb2-b6e8-5cd677d31a5d",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "99f70efa-2951-4dfb-ba1a-e4d9b7a0b08e",
+      "subject": "Social & Preventive Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "e8e4c8af-c2cb-4b44-8865-ff068bdbd6b5",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "edb0ef61-a009-4fe9-811e-5b9d6ea40435",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "ef3c0dca-5a44-4569-ba14-14ed9fd9a5a5",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "eae21df0-06e3-49cb-a1f0-1ac41966e11a",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "879e2943-db7e-483e-a957-e998960ec66a",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "66445905-f680-4952-8f35-71253c0c525d",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "8e686bff-ca17-4507-89bc-cce7d6ab9e7f",
+      "subject": "Microbiology",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "2dead4a7-7dc8-4527-9779-170a5174143e",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "6f132291-8a44-47a8-9979-1d359c074a7c",
+      "subject": "Anatomy",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "9bb726e8-7d22-4666-979d-64ee3a2fcb40",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "2374ffe7-dc10-4f81-9ec7-0c883fb64c55",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "3a9f2b69-a6e9-437a-aec2-955872905eec",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "8af7d0f2-0e2b-4c59-b8bd-4e3c9ebdceac",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "ef300ffa-be04-4c72-b18c-8e584ad89b20",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "9a4a67be-7443-404f-b8fe-48173b84046b",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "425262d7-1238-4195-a713-1cb8befefd2d",
+      "subject": "Pathology",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "148f5ca1-0e61-4e4a-a19a-47df89cb1689",
+      "subject": "Medicine",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "3c6acd9a-5776-40dc-a952-678746215562",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "3dd87433-e787-4141-8dfc-f9d4c97e7730",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "90896a33-2ebb-4fee-b954-d37984ba6847",
+      "subject": "Social & Preventive Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "743b8121-1201-4592-a552-25cad3198d07",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "72440397-8eda-480d-8d46-67fada73ecdb",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "991ff4a7-4adc-4136-854d-b6c007d5d1be",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "8aebb35f-a135-4080-8bbf-c7d50be725a0",
+      "subject": "Pharmacology",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "d55629c9-7b28-4491-b0af-f7cbfd962a08",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "985566bc-67a2-4f42-8bc5-4bd8bfc84bab",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "12f0cd05-7053-437d-8c8d-edc889a21004",
+      "subject": "Medicine",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "21618a55-4eaf-457c-a8fa-a1a2149c566a",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "78396a0e-60b7-4aa4-9586-8d38825f08ab",
+      "subject": "Microbiology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "1fe1bd49-93cd-4bea-8beb-fdf6cc819421",
+      "subject": "Pediatrics",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "ca18934a-89fc-41b3-ae63-1cfd465fdc87",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "769fac02-71ac-4554-bade-5d6a9a5edfb4",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "590217c3-2f56-4547-a6e3-e3d3409bc6e2",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "2365c24e-f8c2-4495-9df4-fca568c5c276",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "ce496f69-f41a-4589-9da2-c8bdb4a87226",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "e37f2652-5ce3-4373-88b7-e78460690f57",
+      "subject": "Medicine",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "e6f8340c-044a-4f5a-b6a1-690661d47a22",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "9faa00b2-c959-441b-a202-4667f165ba64",
+      "subject": "Pharmacology",
+      "pred": "C",
+      "gold": "B"
+    },
+    {
+      "id": "762b1d6e-6206-45cf-baa7-55b1c14d5fb1",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "8f57df40-4509-4083-a86d-d53e7bcaf328",
+      "subject": "ENT",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "a18ed47e-dc72-48d2-b763-abea2564e574",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "49b456da-591f-4221-b56b-9a04eaa21b77",
+      "subject": "Pharmacology",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "e64ec07c-6504-4850-a780-307ca9bb1a5e",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "91b1635b-021f-4945-bb1d-5bdeed6389f4",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "B"
+    },
+    {
+      "id": "175a37d0-a4ea-4c5e-b1c1-bf1fec51d2bc",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "888d0ff6-14ae-4f05-af6b-8e7060ba016f",
+      "subject": "Physiology",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "5c1480fc-941a-40a6-895b-537be91bcadb",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "86da0aa9-4ee5-4d2d-909b-e40e20b97d1c",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "b9546516-2a4a-4179-a956-60d0387bf11f",
+      "subject": "Pathology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "57336e68-8096-4fa9-89f5-36c05dcd5482",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "3b34bdec-e2d7-49d8-9b10-ec35a323b491",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "57593a1c-3f1a-46c3-91b9-cf9230080c97",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "8340cc71-4a15-4134-b582-fed084765cf0",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "ebf3275d-4106-4b36-8d92-7d28f52f3576",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "1f5885bd-7146-46de-87b8-f32ae199ce7c",
+      "subject": "Biochemistry",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "4a406504-84b2-4e13-8bd3-c149c1c0e0eb",
+      "subject": "Physiology",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "dcbeb089-e4f1-4a0b-8216-83dd42c7ec6d",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "3b38f235-0a3f-4781-ae19-a7858523b39f",
+      "subject": "ENT",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "373e5596-6095-431f-bea1-88cccaccfef3",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "dfe219a6-198c-476c-9d38-195856bc9b00",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "383be13b-3dbe-4db9-b1da-419c97fbfe83",
+      "subject": "Medicine",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "5419a97a-9132-4f87-9bb5-3ca06dd47507",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "810e4333-a984-4b47-821a-d6dddd1615d7",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "60000767-457b-4528-8918-b4da0bc900e4",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "972af535-585c-402c-8d91-99d012c54d88",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "4034587c-3452-4465-9e2e-9b2ad5f643cd",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "71c2cf6f-b8ca-479b-ba07-3d9162d10c2c",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "45d2b684-c55a-400b-ab09-76ee3a9ba64b",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "a8be5273-87e4-42d6-bdd2-e3ce0ba892c1",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "48cd18c2-3a7a-4c33-8fb6-a5eb7c7dfae2",
+      "subject": "Surgery",
+      "pred": "D",
+      "gold": "C"
+    },
+    {
+      "id": "edd5dd5b-34dc-4c3c-9c68-75812480d96c",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "A"
+    },
+    {
+      "id": "e4e4f249-397f-4edb-b3c2-ff0220ef3092",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "6e76c806-14b1-49b3-a6f9-898a83447e54",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "070ff387-f612-43ac-a23e-ab3e8ed192b4",
+      "subject": "Forensic Medicine",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "16176470-5cc0-4b2a-b9c0-45c3d39dc69b",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "a074e962-7c67-42ab-9215-76af20ac3d70",
+      "subject": "Microbiology",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "ce4bf55c-99a1-41a9-9107-cdab91e7e11b",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "ef9a0bee-7dbf-44e3-bc03-908430db2007",
+      "subject": "Radiology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "78229bbb-46c9-4a15-9773-055a1d9a168b",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "99ebb66d-a706-49db-aa48-96f3430ce0d4",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "fedcc613-e577-40ff-a801-5d57fba1548e",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "709f4d14-4462-4615-8827-be22270e2b55",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "11d1f3f4-3b4e-424c-bb1c-766afe040123",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "7afc4435-27d1-4452-b75f-eb28164eaa06",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "da743fb8-1db4-4fee-9e20-351d78dc60c9",
+      "subject": "Pediatrics",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "3d33288c-0bb6-4687-b003-ca9862ef96e0",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "f544aff2-aebb-41fd-97e7-da9dd55cfc23",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "04d3c89a-f5aa-4cb2-8b65-870d81f04d56",
+      "subject": "Physiology",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "07565ce7-5824-4600-929c-e98c7d21d1d3",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "4fbd9ccb-2efb-4e4a-bcea-2db337a825ff",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "e71cfa3d-6587-429f-8fa8-24cdd6e686d1",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "B"
+    },
+    {
+      "id": "dc8d9432-3981-45b5-b559-6cfaccb013f4",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "f719334e-ac98-46bf-8b44-89f71994e233",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "5bb71e79-6495-4b29-a2b4-8af6d9fb4d86",
+      "subject": "Physiology",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "5449783f-f56a-4761-b276-430a15e89ea7",
+      "subject": "Dental",
+      "pred": "D",
+      "gold": "C"
+    },
+    {
+      "id": "9aaf675f-b867-4cd9-ad9c-ee2dabb0a535",
+      "subject": "Physiology",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "90f34466-4378-4d47-bf88-b930ace9b95d",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "851e771f-27db-4d5a-bae6-f787b1ef70f4",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "b674d02e-af50-4f16-9f81-e3983a854b6a",
+      "subject": "Medicine",
+      "pred": "D",
+      "gold": "C"
+    },
+    {
+      "id": "5ba07589-bec7-4600-b1a2-93beb50dbc17",
+      "subject": "Forensic Medicine",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "ad581666-9c58-4d4a-a9df-8c4743715a53",
+      "subject": "Biochemistry",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "458e5d53-87fd-44da-b3a1-487305e2adef",
+      "subject": "Pediatrics",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "f7d9f997-d9d6-40e0-a921-49bb343f8b52",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "96eca5a9-adfb-4895-8b2a-0b96ffc801fc",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "87c9ed45-4f13-4ec7-9af1-571dc39c84a9",
+      "subject": "Pediatrics",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "928c6efd-d481-4323-83f0-721dae436451",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "ff070552-6e90-4e3b-ad82-918bed4d632c",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "0fd8b1cf-309f-4bcd-b1d6-d6a1f07d440f",
+      "subject": "Forensic Medicine",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "e16742f8-aa56-4a27-9d8d-b7643e5f27c5",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "a0876dd1-533e-4ce7-8d47-1b0ca81cd228",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "615cc399-cebf-4f14-bf98-bf7f8177ee91",
+      "subject": "Biochemistry",
+      "pred": "D",
+      "gold": "D"
+    },
+    {
+      "id": "f4c75eb8-18d8-41bd-81fa-6a03e4519193",
+      "subject": "Physiology",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "86155521-ea6f-485e-b258-14c51d44578e",
+      "subject": "Forensic Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "2e0115a1-4971-407d-b5a1-ec1a70e6e066",
+      "subject": "Medicine",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "e3840b78-8e45-4c14-83da-2a1ed7178d7e",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "c6f3ec1d-e3d8-4677-a31d-8a6450e9e5de",
+      "subject": "Medicine",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "11dce32c-3739-443e-a77c-224198dc55a1",
+      "subject": "Pathology",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "7ea6d180-f468-404f-9ee3-0c68a55b7e51",
+      "subject": "Pathology",
+      "pred": "C",
+      "gold": "A"
+    },
+    {
+      "id": "dd210467-68c5-4566-9cad-34e5ffa22bc9",
+      "subject": "Dental",
+      "pred": "A",
+      "gold": "A"
+    },
+    {
+      "id": "afa06daa-f47f-4e6a-92b4-c8da542e9aff",
+      "subject": "Biochemistry",
+      "pred": "B",
+      "gold": "D"
+    },
+    {
+      "id": "8ec544be-913f-4b14-9858-8026a462af96",
+      "subject": "Gynaecology & Obstetrics",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "f447d416-8b56-4a22-a6bc-9b3467fc4b1d",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "C"
+    },
+    {
+      "id": "b057a579-865e-4b5d-bd32-c859e19078c6",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "B"
+    },
+    {
+      "id": "bd5b9ca9-7065-4c91-8a54-26c8d3a34501",
+      "subject": "Biochemistry",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "b71747a9-b89b-45b2-a54f-04765341177b",
+      "subject": "Pharmacology",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "ca2561d2-80a5-439b-949c-98d7c9dfb448",
+      "subject": "Pediatrics",
+      "pred": "A",
+      "gold": "D"
+    },
+    {
+      "id": "6112d78f-1ba7-4d0b-9a6b-2296fc8a4a04",
+      "subject": "Surgery",
+      "pred": "A",
+      "gold": "C"
+    },
+    {
+      "id": "eff524ae-ed1d-4b56-815a-2b4aad9bcdcb",
+      "subject": "Social & Preventive Medicine",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "794f0675-d04f-4133-be9c-96d3ba44238e",
+      "subject": "Dental",
+      "pred": "B",
+      "gold": "C"
+    },
+    {
+      "id": "5ef662e7-6d00-4ca1-a592-b862a54a5efa",
+      "subject": "Dental",
+      "pred": "C",
+      "gold": "D"
+    },
+    {
+      "id": "2988090f-7d5e-40a5-ba16-3198f4e345a3",
+      "subject": "Pediatrics",
+      "pred": "B",
+      "gold": "A"
+    },
+    {
+      "id": "12f747f6-e1e0-4850-864a-1af7b156c14f",
+      "subject": "Anatomy",
+      "pred": "A",
+      "gold": "A"
+    }
+  ]
+}

@@ -121,11 +121,15 @@ def main():
         for i in range(micro_per_epoch):
             batch = collate(kept[i * args.batch_size:(i + 1) * args.batch_size], tokenizer.pad_token_id)
             batch = {k: v.to(device) for k, v in batch.items()}
+            # Micro-batches in this accumulation window (the last one of an
+            # epoch can be short), so each step averages over its own batches.
+            window_start = (i // args.grad_accum) * args.grad_accum
+            n_accum = min(args.grad_accum, micro_per_epoch - window_start)
 
             with torch.autocast(device_type="cuda", dtype=torch.float16, enabled=use_amp):
                 # Passing labels makes the model compute shifted cross-entropy
                 # over every position whose label isn't -100.
-                loss = model(**batch).loss / args.grad_accum
+                loss = model(**batch).loss / n_accum
             scaler.scale(loss).backward()
             running += loss.item()
 

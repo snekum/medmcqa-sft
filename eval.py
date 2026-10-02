@@ -57,6 +57,8 @@ def main():
             pred, gold = LETTERS[c], answer_letter(ex)
             correct += pred == gold
             preds.append({"id": ex["id"], "subject": ex["subject_name"], "pred": pred, "gold": gold})
+        print(f"\r{len(preds)}/{len(examples)} done, running accuracy {correct / len(preds):.1%}", end="", flush=True)
+    print()
 
     acc = correct / len(examples)
     label = args.adapter or "base"
