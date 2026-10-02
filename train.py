@@ -57,8 +57,8 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--n-train", type=int, default=1000)
     p.add_argument("--epochs", type=int, default=2)
-    p.add_argument("--batch-size", type=int, default=4)
-    p.add_argument("--grad-accum", type=int, default=4)  # effective batch = 16
+    p.add_argument("--batch-size", type=int, default=2)  # small: fits a 4 GB GPU
+    p.add_argument("--grad-accum", type=int, default=8)  # effective batch = 2 x 8 = 16
     p.add_argument("--lr", type=float, default=2e-4)
     p.add_argument("--lora-r", type=int, default=16)
     p.add_argument("--max-len", type=int, default=384)
@@ -70,14 +70,19 @@ def main():
     torch.manual_seed(args.seed)
     device = "cuda" if torch.cuda.is_available() else "cpu"
     use_amp = device == "cuda"
+    if use_amp:
+        # On Windows the NVIDIA driver silently spills GPU memory into system
+        # RAM when the card is full. Capping PyTorch makes it reuse its cache
+        # instead (or fail with a clear OOM error) rather than eat your RAM.
+        torch.cuda.set_per_process_memory_fraction(0.85)
 
     # --- Model ---------------------------------------------------------------
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     # fp16 base weights (~1 GB) so it fits on a small GPU. The base stays frozen;
     # only the LoRA adapters (kept in fp32 by peft) get gradients.
     model = AutoModelForCausalLM.from_pretrained(
-        MODEL_NAME, dtype=torch.float16 if use_amp else torch.float32
-    ).to(device)
+        MODEL_NAME, dtype=torch.float16 if use_amp else torch.float32, device_map=device
+    )
     model.config.use_cache = False
 
     # LoRA: instead of updating a weight matrix W (d x d), learn a low-rank

@@ -32,8 +32,8 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     tokenizer.padding_side = "right"
     model = AutoModelForCausalLM.from_pretrained(
-        MODEL_NAME, dtype=torch.float16 if device == "cuda" else torch.float32
-    ).to(device)
+        MODEL_NAME, dtype=torch.float16 if device == "cuda" else torch.float32, device_map=device
+    )
     if args.adapter:
         model = PeftModel.from_pretrained(model, args.adapter)
     model.eval()
